@@ -1,6 +1,6 @@
 # macos-config
 
-Collection of macOS config
+Collection of macOS config.
 
 ## Things
 
